@@ -48,7 +48,7 @@ public class Student {
         this.english = english;
     }
 
-    @Override
+    
     public String toString() {
         return "{" +
                 "\"name\":\""+this.name+"\","+
